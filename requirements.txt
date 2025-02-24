@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+google-generativeai
+requests
+pyautogui
+python-dotenv
+pytest
+pytest-mock
+responses
